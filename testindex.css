@@ -1,0 +1,119 @@
+*{
+    font-family: roboto,sans-serif;
+}
+.img{
+    width: 360px;
+    height: 250px;
+}
+.img-reponsive{
+    width: 100%;
+}
+.navbar-collapse ul{
+    margin-left: 80px;
+}
+
+/* css chương trình đào tạo */
+
+.chuong_trinh_dao_tao{
+    background-color: #0066a8;
+    padding: 60px 0;
+}
+a{
+    text-decoration: none;
+}
+.imgslide{
+    width: 1305px;
+    height: 429px;
+}
+.row h4{
+    margin-top: 16px;
+    font-size: 20px;
+}
+.container{
+    margin-top: 60px;
+}
+
+/*  css tin tức và thông báo */
+.tin_tuc_thong_bao{
+    padding: 60px 0;
+}
+.tin_tuc_thong_bao h4 {
+    color: #333333;
+}
+.tin_tuc_thong_bao p{
+    color: #333333;
+}
+.tin_tuc_thong_bao h2{
+    color: #333333;
+}
+
+/* csss đăng ký tuyển sinh  */
+.dang_ky_tuyen_sinh{
+    margin-top: 60px;
+    background-image: url(images/slide1.png);
+}
+.dang_ky_tuyen_sinh .container{
+    margin-bottom: 60px;  
+ }
+ 
+ 
+ .dang_ky_tuyen_sinh p{
+     font-weight: bold;
+ }
+ .text_title{
+     font-size: 36px;
+ }
+ .header_form{
+     margin-bottom: 36px;
+ }
+ .title_form{
+     font-size: 19px;
+     margin: 16px 0;
+ }
+ .title2_form{
+     font-size: 14px;
+     margin: 10px 0;
+ }
+ 
+ .form-control{
+     margin: 16px 0;
+     
+ }
+ .text_fix{
+     font-size: 14px;
+     color: rgb(190, 190, 190);
+ }
+ .fix_btn{
+     margin-bottom: 16px;
+     
+ }
+
+
+/* css giao vien và câu chuyện của chúng tôi */
+
+
+.doingu_giaovien{
+    padding: 60px 0;
+}
+.img_gv {
+    width: 200px;
+    height: 171px;
+}
+.fix_row{
+    margin-top: 16px;
+}
+.container .row{
+    margin-top: 16px;
+}
+
+/* đây là footer */
+
+.footer ul{
+    list-style-type: none;
+    padding-left: 0;
+    margin: 16px 0;
+}
+.footer ul li a{
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,30 @@
+*{
+    font-family: roboto,sans-serif;
+}
+
+.navbar-collapse ul{
+    margin-left: 80px;
+}
+
+.container{
+    margin-top: 60px;
+}
+.img_fix{
+    
+    
+    margin: 20px 0;
+}
+
+
+.img-reponsive{
+    width: 100%;
+}
+.container .row a{
+    text-decoration: none;
+    font-size: 24px;
+    margin-bottom: 16px;
+
+}
+.fix{
+    margin-top: 50px;
+}
